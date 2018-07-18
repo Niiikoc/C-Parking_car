@@ -1,0 +1,34 @@
+***************************************************
+onoma: 00
+epitheto: 
+marka autokinhtou: 
+
+aritmos pinakidas: 
+
+oi wres pou epilekse einai 5
+h xrewsh gia autes tis wres einai: 20
+to autokinhto einai sthn thesh 14 
+***************************************************
+***************************************************
+onoma: nikos
+
+epitheto: tsimo
+marka autokinhtou: bmw m3
+
+aritmos pinakidas: sad 4222
+oi wres pou epilekse einai 4
+h xrewsh gia autes tis wres einai: 16
+to autokinhto einai sthn thesh 5 
+***************************************************
+***************************************************
+onoma: nikos
+
+epitheto: tsimo
+marka autokinhtou: bmw
+
+aritmos pinakidas: sad 4232
+oi wres pou epilekse einai 5
+h xrewsh gia autes tis wres einai: 20
+to autokinhto einai sthn thesh 1 
+***************************************************
+ÿ
